@@ -6,3 +6,6 @@ helloooooooooo
 hello my cat!
 
   hello my dear! 
+
+testing rebase command 
+    with the help of pink-mode branch
