@@ -9,3 +9,6 @@ hello my cat!
 
 testing rebase command 
     with the help of pink-mode branch
+
+testing rebase command 
+    with the help of purple-mode branch
