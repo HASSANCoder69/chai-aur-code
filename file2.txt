@@ -12,3 +12,5 @@ testing rebase command
 
 testing rebase command 
     with the help of purple-mode branch
+
+checking push -u property    
